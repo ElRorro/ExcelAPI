@@ -1,7 +1,7 @@
 # ExcelAPI
-#Práctica Acceso a datos
+# Práctica Acceso a datos
 
-#Objetivo
+# Objetivo
 Realizar una sencilla API para importar/exportar a Excel
 
 #Funcionalidade de la API
@@ -13,13 +13,13 @@ No necesitamos procesar fórmulas. Se trata de una API de importación/exportaci
 
 Para la puntuación, y como completar la tarea mira la rúbrica.
 
-#NeetBeans
+# NeetBeans
 
 ![alt text](https://lignux.com/wp-content/uploads/2014/07/netbeans.jpg?w=640)
 IDE utilizado en la implementación de la API
  
 
-#Maven
+# Maven
 
 ![alt text](http://lobosoft-mx.com/wp-content/uploads/2016/04/apache_maven.png)
 
