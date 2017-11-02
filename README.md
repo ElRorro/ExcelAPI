@@ -26,3 +26,8 @@ IDE utilizado en la implementación de la API
 Software utilizado para desarrollar la API.
 
 Apache Maven es una herramienta de gestión y comprensión de proyectos de software. Basándose en el concepto de un modelo de objeto de proyecto (POM), Maven puede gestionar la compilación, los informes y la documentación de un proyecto a partir de una pieza central de información.
+
+# Excel
+Es utilizado como hemos mencionado anteriormente para importar/exportar a Excel, volcar matrices de texto a hojas en libros de Excel.
+
+![alt text](http://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png)
